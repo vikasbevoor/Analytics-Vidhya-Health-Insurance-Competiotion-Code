@@ -1,2 +1,2 @@
-# Analytics-Vidhya-Health-Insurance-Competiotion-Code
+# Analytics-Vidhya-Health-Insurance-Competition-Code
 Code with details
